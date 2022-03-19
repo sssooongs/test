@@ -30,7 +30,7 @@ def xunhuan():
              break
         else:
             # 循环中没有找到元素
-            print(n, ' 是质数1122222')
+            print(n, ' 是质数22222222')
 
 
 
